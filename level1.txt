@@ -7,4 +7,4 @@
 Что тоже является фигней и тупиком. Опирайтесь на интуицию.
 Щаз, откуда интуиция без опыта. Интуиция — это нейронная сеть в мозгу, и ее тоже нужно обучать на выборке.
 
-https://raw.githubusercontent.com/MaxSlapaev/TestData/master/level2.txt
+https://raw.githubusercontent.com/MaxSlapaev/TestData/53207de109ad9a71ee6de9386718ea1f55f197d9/level2.txt
